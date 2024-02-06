@@ -1,6 +1,6 @@
 package br.com.adrianobarbosa.screenmatch.model;
 
-import br.com.adrianobarbosa.screenmatch.principal.Principal;
+
 
 public enum Categoria {
     ACAO("Action"),
